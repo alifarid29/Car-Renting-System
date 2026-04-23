@@ -1,0 +1,6 @@
+mg5 8
+mg6 7
+mgzs 7
+mg7 7
+mgrxplus 7
+mghs 7

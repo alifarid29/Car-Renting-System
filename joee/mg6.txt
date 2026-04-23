@@ -1,0 +1,7 @@
+battery 1000 500000 1
+wipers 160 10000 2
+oilfilter 200 40000 3
+oil10k 900 10000 4
+sparkplug 4118 50000 5
+fuelfilter 743 30000 6
+acfilter 656 10000 7

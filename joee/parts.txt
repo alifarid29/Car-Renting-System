@@ -1,0 +1,12 @@
+battery1 1200 mg5
+battery2 1000 mg6
+battery3 1100 mgzs
+wipers1 150 mg5
+wipers2 150 mgzs
+wipers3 160 mg6
+oilfilter 200 mg5
+oilfilter 200 mg6
+oilfilter 200 mgzs
+oil10k 900 allay 0 
+ay 0 
+ay 0 
