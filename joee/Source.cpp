@@ -1057,7 +1057,7 @@ void output_tax() // total tax included
 {
 	cout << "Total Tax is: " << tax.tax_parts + tax.tax_service << " LE" << endl;
 }
-void change_tax() // aaml file?? 
+void change_tax() 
 {
 	ofstream taxes; //create file
 	taxes.open("tax.txt");
@@ -1121,8 +1121,7 @@ double discount_coupon(double& sum)
 		return sum;
 }
 double discount(double& sum) // discount when sum>=3000
-{
-	//if sum>=3000 10% off      
+{     
 	if (sum >= 6000)
 	{
 		cout << "You have discount 10%!!" << endl;
