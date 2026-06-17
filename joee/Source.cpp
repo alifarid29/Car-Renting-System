@@ -1081,11 +1081,10 @@ void change_tax() // aaml file??
 	}
 	taxes << tax.tax_admin;
 }
-double discount_coupon(double& sum) // Discount with coupon  w lazm nsheelo mn el sum fel akherrr
-//coupon =5505 aashan 3eed melady :)
+double discount_coupon(double& sum) 
 {
 	string answer;
-	int coupon; // aamlo int wala string?? aashan lw dkhlt el coupon string byaaml infinte loop
+	int coupon;
 	cout << "Do you have coupon? " << endl;
 	cin >> answer;
 	if (answer == "Yes" || answer == "yes")
